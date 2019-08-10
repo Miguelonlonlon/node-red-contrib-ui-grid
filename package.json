@@ -1,0 +1,23 @@
+{
+    "name": "node-red-contrib-ui-grid",
+    "version": "0.0.1",
+    "description": "Node-RED UI widget node for big grids",
+    "author" : "M.Ghiasi",
+    "license": "MIT",
+    "main": "node-red-contrib-ui-grid.js",
+    "node-red": {
+        "nodes": {
+            "ui-grid": "node-red-contrib-ui-grid.js"
+        }
+    },
+    "repository" : {
+        "type" : "git",
+        "url": "https://github.com/emg110/node-red-contrib-ui-grid"
+    },
+    "keywords": [
+        "node-red",
+        "node-red-dashboard",
+		"ui",
+		"grid"
+    ]
+}
